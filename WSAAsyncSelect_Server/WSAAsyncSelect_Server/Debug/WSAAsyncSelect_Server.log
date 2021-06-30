@@ -1,0 +1,19 @@
+﻿  WSAAsyncSelect_Server.cpp
+c:\users\happy\onedrive\문서\visual studio 2015\projects\프로그래머스 코딩 연습\wsaasyncselect_server\wsaasyncselect_server\protocal.h(20): warning C4091: 'typedef ': 변수를 선언하지 않으면 'Packet' 왼쪽은 무시됩니다.
+c:\users\happy\onedrive\문서\visual studio 2015\projects\프로그래머스 코딩 연습\wsaasyncselect_server\wsaasyncselect_server\protocal.h(28): warning C4091: 'typedef ': 변수를 선언하지 않으면 'LoginData' 왼쪽은 무시됩니다.
+c:\users\happy\onedrive\문서\visual studio 2015\projects\프로그래머스 코딩 연습\wsaasyncselect_server\wsaasyncselect_server\protocal.h(43): warning C4091: 'typedef ': 변수를 선언하지 않으면 'Login_RQ' 왼쪽은 무시됩니다.
+c:\users\happy\onedrive\문서\visual studio 2015\projects\프로그래머스 코딩 연습\wsaasyncselect_server\wsaasyncselect_server\protocal.h(54): warning C4091: 'typedef ': 변수를 선언하지 않으면 'Login_RP' 왼쪽은 무시됩니다.
+c:\users\happy\onedrive\문서\visual studio 2015\projects\프로그래머스 코딩 연습\wsaasyncselect_server\wsaasyncselect_server\protocal.h(59): warning C4091: 'typedef ': 변수를 선언하지 않으면 'StrData' 왼쪽은 무시됩니다.
+c:\users\happy\onedrive\문서\visual studio 2015\projects\프로그래머스 코딩 연습\wsaasyncselect_server\wsaasyncselect_server\protocal.h(72): warning C4091: 'typedef ': 변수를 선언하지 않으면 'ChatStrData' 왼쪽은 무시됩니다.
+c:\users\happy\onedrive\문서\visual studio 2015\projects\프로그래머스 코딩 연습\wsaasyncselect_server\wsaasyncselect_server\logindatabase.h(5): error C2143: 구문 오류: ';'이(가) '*' 앞에 없습니다.
+c:\users\happy\onedrive\문서\visual studio 2015\projects\프로그래머스 코딩 연습\wsaasyncselect_server\wsaasyncselect_server\logindatabase.h(5): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\happy\onedrive\문서\visual studio 2015\projects\프로그래머스 코딩 연습\wsaasyncselect_server\wsaasyncselect_server\logindatabase.h(5): error C2238: ';' 앞에 예기치 않은 토큰이 있습니다.
+c:\users\happy\onedrive\문서\visual studio 2015\projects\프로그래머스 코딩 연습\wsaasyncselect_server\wsaasyncselect_server\logindatabase.h(6): error C3646: 'm_conn': 알 수 없는 재정의 지정자입니다.
+c:\users\happy\onedrive\문서\visual studio 2015\projects\프로그래머스 코딩 연습\wsaasyncselect_server\wsaasyncselect_server\logindatabase.h(6): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\happy\onedrive\문서\visual studio 2015\projects\프로그래머스 코딩 연습\wsaasyncselect_server\wsaasyncselect_server\logindatabase.h(7): error C2143: 구문 오류: ';'이(가) '*' 앞에 없습니다.
+c:\users\happy\onedrive\문서\visual studio 2015\projects\프로그래머스 코딩 연습\wsaasyncselect_server\wsaasyncselect_server\logindatabase.h(7): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\happy\onedrive\문서\visual studio 2015\projects\프로그래머스 코딩 연습\wsaasyncselect_server\wsaasyncselect_server\logindatabase.h(7): error C2238: ';' 앞에 예기치 않은 토큰이 있습니다.
+c:\users\happy\onedrive\문서\visual studio 2015\projects\프로그래머스 코딩 연습\wsaasyncselect_server\wsaasyncselect_server\logindatabase.h(8): error C3646: 'm_sqlRow': 알 수 없는 재정의 지정자입니다.
+c:\users\happy\onedrive\문서\visual studio 2015\projects\프로그래머스 코딩 연습\wsaasyncselect_server\wsaasyncselect_server\logindatabase.h(8): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\happy\onedrive\문서\visual studio 2015\projects\프로그래머스 코딩 연습\wsaasyncselect_server\wsaasyncselect_server\wsaasyncselect_server.cpp(273): error C2065: 'CLoginData': 선언되지 않은 식별자입니다.
+c:\users\happy\onedrive\문서\visual studio 2015\projects\프로그래머스 코딩 연습\wsaasyncselect_server\wsaasyncselect_server\wsaasyncselect_server.cpp(273): error C2146: 구문 오류: ';'이(가) 'Login_RP' 식별자 앞에 없습니다.
